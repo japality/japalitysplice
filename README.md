@@ -144,6 +144,14 @@ japalitysplice-public/
         └── japalitysplice.rs  # CLI entry point
 ```
 
+## Mobile App
+
+JapalitySplice is also available as a mobile application with a graphical interface,
+allowing on-device RNA-Seq alignment without any server infrastructure:
+
+- **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.japality.splice)
+- **iOS**: [App Store](https://apps.apple.com/app/id6760461634)
+
 ## Contributing
 
 Bug reports and pull requests are welcome on [GitHub](https://github.com/japality/japalitysplice).
