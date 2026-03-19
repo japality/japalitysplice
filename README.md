@@ -1,5 +1,7 @@
 # JapalitySplice
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19104744.svg)](https://doi.org/10.5281/zenodo.19104744)
+
 **A sparse k-mer, splice-aware RNA-Seq aligner designed for resource-constrained environments.**
 
 JapalitySplice is a novel RNA-Seq aligner written in Rust that combines sparse k-mer indexing
@@ -127,6 +129,7 @@ If you use JapalitySplice in your research, please cite:
 > Chen, Y.H. & Kojima, K. (2025). JapalitySplice: A Sparse K-mer RNA-Seq Splice-Aware
 > Aligner for Edge-Oriented Computing. *bioRxiv* (preprint).
 > Japality Limited, Hong Kong.
+> DOI: [10.5281/zenodo.19104744](https://doi.org/10.5281/zenodo.19104744)
 
 ## Project Structure
 
