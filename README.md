@@ -126,9 +126,8 @@ For full methodology and discussion, see the accompanying paper (below).
 
 If you use JapalitySplice in your research, please cite:
 
-> Chen, Y.H. & Kojima, K. (2025). JapalitySplice: A Sparse K-mer RNA-Seq Splice-Aware
-> Aligner for Edge-Oriented Computing. *bioRxiv* (preprint).
-> Japality Limited, Hong Kong.
+> Chen, Y.H. & Kojima, K. (2026). JapalitySplice: A Sparse K-mer RNA-Seq Splice-Aware
+> Aligner for Edge-Oriented Computing. Japality Limited, Hong Kong.
 > DOI: [10.5281/zenodo.19104744](https://doi.org/10.5281/zenodo.19104744)
 
 ## Project Structure
