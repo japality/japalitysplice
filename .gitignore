@@ -1,0 +1,14 @@
+# Build artifacts
+/target/
+**/*.rs.bk
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Index files (large)
+*.nsix
