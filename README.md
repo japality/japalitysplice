@@ -25,7 +25,7 @@ proprietary software, closed-source commercial apps, or internal business tools)
 obtain a separate commercial license.
 Please contact **info@japality.com** for commercial licensing inquiries.
 
-Copyright © 2024-2026 Japality Limited. All rights reserved.
+Copyright © 2026 Japality Limited. All rights reserved.
 
 ---
 

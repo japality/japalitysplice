@@ -1,5 +1,5 @@
 // Integration tests for JapalitySplice
-// Copyright (C) 2024-2026 Japality Limited
+// Copyright (C) 2026 Japality Limited
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 use japalitysplice_core::{build_index, run_alignment};
